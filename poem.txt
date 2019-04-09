@@ -5,3 +5,4 @@ Greeen
 Yellow
 Orange
 Red
+This is a Rainbow file
